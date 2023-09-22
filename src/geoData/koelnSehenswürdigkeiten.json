@@ -1,0 +1,1304 @@
+{
+    "displayFieldName": "name",
+    "fieldAliases": {
+        "objectid": "OBJECTID",
+        "adress_nr": "Adress-Nr.",
+        "name": "Name",
+        "adresse": "Adresse",
+        "hausnr": "Hausnummer",
+        "stadtbezirk": "Stadtbezirk",
+        "stadtteil": "Stadtteil",
+        "stadtviertel": "Stadtviertel",
+        "postleitzahl": "Postzustellbezirk",
+        "hyperlink": "Hyperlink",
+        "name_lang": "Langname"
+    },
+    "geometryType": "esriGeometryPoint",
+    "spatialReference": {
+        "wkid": 4326,
+        "latestWkid": 4326
+    },
+    "fields": [{
+            "name": "objectid",
+            "type": "esriFieldTypeOID",
+            "alias": "OBJECTID"
+        },
+        {
+            "name": "adress_nr",
+            "type": "esriFieldTypeString",
+            "alias": "Adress-Nr.",
+            "length": 12
+        },
+        {
+            "name": "name",
+            "type": "esriFieldTypeString",
+            "alias": "Name",
+            "length": 26
+        },
+        {
+            "name": "adresse",
+            "type": "esriFieldTypeString",
+            "alias": "Adresse",
+            "length": 41
+        },
+        {
+            "name": "hausnr",
+            "type": "esriFieldTypeString",
+            "alias": "Hausnummer",
+            "length": 5
+        },
+        {
+            "name": "stadtbezirk",
+            "type": "esriFieldTypeString",
+            "alias": "Stadtbezirk",
+            "length": 25
+        },
+        {
+            "name": "stadtteil",
+            "type": "esriFieldTypeString",
+            "alias": "Stadtteil",
+            "length": 25
+        },
+        {
+            "name": "stadtviertel",
+            "type": "esriFieldTypeString",
+            "alias": "Stadtviertel",
+            "length": 25
+        },
+        {
+            "name": "postleitzahl",
+            "type": "esriFieldTypeString",
+            "alias": "Postzustellbezirk",
+            "length": 5
+        },
+        {
+            "name": "hyperlink",
+            "type": "esriFieldTypeString",
+            "alias": "Hyperlink",
+            "length": 75
+        },
+        {
+            "name": "name_lang",
+            "type": "esriFieldTypeString",
+            "alias": "Langname",
+            "length": 60
+        }
+    ],
+    "features": [{
+            "attributes": {
+                "objectid": 1,
+                "adress_nr": "00002132800",
+                "name": "Römische Grabkammer",
+                "adresse": "Aachener Str. 1328",
+                "hausnr": "1328",
+                "stadtbezirk": "Lindenthal",
+                "stadtteil": "Weiden",
+                "stadtviertel": "Alt-Weiden",
+                "postleitzahl": "50859",
+                "hyperlink": " ",
+                "name_lang": "Römische Grabkammer"
+            },
+            "geometry": {
+                "x": 6.8244429402525366,
+                "y": 50.93875586786401
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 2,
+                "adress_nr": "00236000100",
+                "name": "Ubiermonument",
+                "adresse": "An der Malzmühle 1",
+                "hausnr": "1",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Süd",
+                "stadtviertel": "Kapitol-Viertel",
+                "postleitzahl": "50676",
+                "hyperlink": " ",
+                "name_lang": "Ubiermonument"
+            },
+            "geometry": {
+                "x": 6.9591539930177202,
+                "y": 50.933858744638968
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 3,
+                "adress_nr": "02641000800",
+                "name": "Overstolzenhaus",
+                "adresse": "Rheingasse 8",
+                "hausnr": "8",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Süd",
+                "stadtviertel": "Georgs-Viertel",
+                "postleitzahl": "50676",
+                "hyperlink": " ",
+                "name_lang": "Overstolzenhaus"
+            },
+            "geometry": {
+                "x": 6.9604761142344866,
+                "y": 50.934016510285176
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 4,
+                "adress_nr": "02589000400",
+                "name": "Praetorium",
+                "adresse": "Rathausplatz 4",
+                "hausnr": "4",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Nord",
+                "stadtviertel": "City",
+                "postleitzahl": "50667",
+                "hyperlink": " ",
+                "name_lang": "Praetorium"
+            },
+            "geometry": {
+                "x": 6.9590284841223156,
+                "y": 50.938467794096162
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 5,
+                "adress_nr": "02589000200",
+                "name": "Mikwe (Jüdisches Bad)",
+                "adresse": "Rathausplatz 2",
+                "hausnr": "2",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Nord",
+                "stadtviertel": "City",
+                "postleitzahl": "50667",
+                "hyperlink": " ",
+                "name_lang": "Mikwe (Jüdisches Bad)"
+            },
+            "geometry": {
+                "x": 6.9586237044530321,
+                "y": 50.937955222634237
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 6,
+                "adress_nr": "04712018200",
+                "name": "Wehrturm",
+                "adresse": "Hauptstr. Zü 182",
+                "hausnr": "182",
+                "stadtbezirk": "Porz",
+                "stadtteil": "Zündorf",
+                "stadtviertel": "Zündorf",
+                "postleitzahl": "51143",
+                "hyperlink": "http://www.koeln.de/cgi-bin/extern.cgi?url=http://www.museenkoeln.de",
+                "name_lang": "Wehrturm"
+            },
+            "geometry": {
+                "x": 7.0465039519772441,
+                "y": 50.869676634480861
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 7,
+                "adress_nr": "00294000100",
+                "name": "WDR",
+                "adresse": "Appellhofplatz 1",
+                "hausnr": "1",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Nord",
+                "stadtviertel": "Neumarkt-Viertel",
+                "postleitzahl": "50667",
+                "hyperlink": " ",
+                "name_lang": "WDR"
+            },
+            "geometry": {
+                "x": 6.9523143652012163,
+                "y": 50.940101931757745
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 8,
+                "adress_nr": "02589000200",
+                "name": "Hist. Rathaus",
+                "adresse": "Rathausplatz 2",
+                "hausnr": "2",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Nord",
+                "stadtviertel": "City",
+                "postleitzahl": "50667",
+                "hyperlink": " ",
+                "name_lang": "Hist. Rathaus"
+            },
+            "geometry": {
+                "x": 6.9593020957568505,
+                "y": 50.938116490026154
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 9,
+                "adress_nr": "02727000900",
+                "name": "Hahnentor",
+                "adresse": "Rudolfplatz 9",
+                "hausnr": "9",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Süd",
+                "stadtviertel": "Mauritius-Viertel",
+                "postleitzahl": "50674",
+                "hyperlink": " ",
+                "name_lang": "Hahnentor"
+            },
+            "geometry": {
+                "x": 6.9401946303632442,
+                "y": 50.936334261737649
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 10,
+                "adress_nr": "02173006100",
+                "name": "Wolkenburg",
+                "adresse": "Mauritiussteinweg 61",
+                "hausnr": "61",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Süd",
+                "stadtviertel": "Mauritius-Viertel",
+                "postleitzahl": "50676",
+                "hyperlink": " ",
+                "name_lang": "Wolkenburg"
+            },
+            "geometry": {
+                "x": 6.9447766816106951,
+                "y": 50.932866750596361
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 11,
+                "adress_nr": "00096000200",
+                "name": "Bayenturm",
+                "adresse": "Am Bayenturm 2",
+                "hausnr": "2",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Süd",
+                "stadtviertel": "Rheinauhafen",
+                "postleitzahl": "50678",
+                "hyperlink": " ",
+                "name_lang": "Bayenturm"
+            },
+            "geometry": {
+                "x": 6.9669902846427751,
+                "y": 50.923732931108262
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 12,
+                "adress_nr": "02881003200",
+                "name": "Bottmühle",
+                "adresse": "Severinswall 32",
+                "hausnr": "32",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Süd",
+                "stadtviertel": "Severins-Viertel",
+                "postleitzahl": "50678",
+                "hyperlink": " ",
+                "name_lang": "Bottmühle"
+            },
+            "geometry": {
+                "x": 6.9632269435092784,
+                "y": 50.922892091711191
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 13,
+                "adress_nr": "00628002800",
+                "name": "Severinstor",
+                "adresse": "Chlodwigplatz 28",
+                "hausnr": "28",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Süd",
+                "stadtviertel": "Severins-Viertel",
+                "postleitzahl": "50678",
+                "hyperlink": " ",
+                "name_lang": "Severinstor"
+            },
+            "geometry": {
+                "x": 6.9593605567167831,
+                "y": 50.921916419209325
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 14,
+                "adress_nr": "00827013900",
+                "name": "Eigelsteintor",
+                "adresse": "Eigelstein 139",
+                "hausnr": "139",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Nord",
+                "stadtviertel": "Eigelstein-Viertel",
+                "postleitzahl": "50668",
+                "hyperlink": " ",
+                "name_lang": "Eigelsteintor"
+            },
+            "geometry": {
+                "x": 6.9567776410318283,
+                "y": 50.949291603069483
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 15,
+                "adress_nr": "03407001300",
+                "name": "Römerturm",
+                "adresse": "Zeughausstr. 13",
+                "hausnr": "13",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Nord",
+                "stadtviertel": "Neumarkt-Viertel",
+                "postleitzahl": "50667",
+                "hyperlink": " ",
+                "name_lang": "Römerturm"
+            },
+            "geometry": {
+                "x": 6.9467059505454829,
+                "y": 50.940913543423896
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 16,
+                "adress_nr": "01110011000",
+                "name": "mittelalterl. Stadtmauer",
+                "adresse": "Gereonswall 110",
+                "hausnr": "110",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Nord",
+                "stadtviertel": "Gereons-Viertel",
+                "postleitzahl": "50670",
+                "hyperlink": " ",
+                "name_lang": "mittelalterl. Stadtmauer"
+            },
+            "geometry": {
+                "x": 6.9472645286377013,
+                "y": 50.946364440847212
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 17,
+                "adress_nr": "00479000200",
+                "name": "Stadtmauer",
+                "adresse": "Blaue-Funken-Weg 2",
+                "hausnr": "2",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Süd",
+                "stadtviertel": "Pantaleons-Viertel",
+                "postleitzahl": "50677",
+                "hyperlink": " ",
+                "name_lang": "Stadtmauer"
+            },
+            "geometry": {
+                "x": 6.9510542378613813,
+                "y": 50.925128799295244
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 18,
+                "adress_nr": "02749004200",
+                "name": "Ulrepforte",
+                "adresse": "Sachsenring 42",
+                "hausnr": "42",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Neustadt/Süd",
+                "stadtviertel": "Südstadt",
+                "postleitzahl": "50677",
+                "hyperlink": " ",
+                "name_lang": "Ulrepforte"
+            },
+            "geometry": {
+                "x": 6.9529963480151986,
+                "y": 50.924117294856913
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 19,
+                "adress_nr": " ",
+                "name": "Skulpturenpark",
+                "adresse": "Riehler Str./Elsa-Brandström-Str.",
+                "hausnr": " ",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Neustadt/Nord",
+                "stadtviertel": "Gerichts-Viertel",
+                "postleitzahl": "50668",
+                "hyperlink": " ",
+                "name_lang": "Skulpturenpark"
+            },
+            "geometry": {
+                "x": 6.9703090356887429,
+                "y": 50.955620008091728
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 20,
+                "adress_nr": " ",
+                "name": "Rheinseilbahn",
+                "adresse": "Frohngasse/Zoobrücke",
+                "hausnr": " ",
+                "stadtbezirk": "Nippes",
+                "stadtteil": "Riehl",
+                "stadtviertel": "Niederländer-Viertel",
+                "postleitzahl": "50735",
+                "hyperlink": " ",
+                "name_lang": "Rheinseilbahn"
+            },
+            "geometry": {
+                "x": 6.9736684136201683,
+                "y": 50.95701341954868
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 21,
+                "adress_nr": "0265601730",
+                "name": "Aquarium",
+                "adresse": "Riehler Str. 173",
+                "hausnr": "173",
+                "stadtbezirk": "Nippes",
+                "stadtteil": "Riehl",
+                "stadtviertel": "Zoo-Flora",
+                "postleitzahl": "50735",
+                "hyperlink": " ",
+                "name_lang": "Aquarium"
+            },
+            "geometry": {
+                "x": 6.9724769788676211,
+                "y": 50.958369500910685
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 22,
+                "adress_nr": "0265601730",
+                "name": "Zoo",
+                "adresse": "Riehler Str. 173",
+                "hausnr": "173",
+                "stadtbezirk": "Nippes",
+                "stadtteil": "Riehl",
+                "stadtviertel": "Zoo-Flora",
+                "postleitzahl": "50735",
+                "hyperlink": " ",
+                "name_lang": "Zoo"
+            },
+            "geometry": {
+                "x": 6.9731726723062444,
+                "y": 50.958150206644646
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 23,
+                "adress_nr": " ",
+                "name": "LanxessArena",
+                "adresse": "Willy-Brandt-Platz 1",
+                "hausnr": " ",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Deutz",
+                "stadtviertel": "Köln-Arena",
+                "postleitzahl": "50679",
+                "hyperlink": " ",
+                "name_lang": "LanxessArena"
+            },
+            "geometry": {
+                "x": 6.9829578613643459,
+                "y": 50.938453148848488
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 24,
+                "adress_nr": "0000209990",
+                "name": "RheinEnergieStadion",
+                "adresse": "Aachener Str. 999",
+                "hausnr": "999",
+                "stadtbezirk": "Lindenthal",
+                "stadtteil": "Müngersdorf",
+                "stadtviertel": "Stadion",
+                "postleitzahl": "50933",
+                "hyperlink": " ",
+                "name_lang": "RheinEnergieStadion"
+            },
+            "geometry": {
+                "x": 6.8751202923854304,
+                "y": 50.933628189645155
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 25,
+                "adress_nr": "01143000400",
+                "name": "4711-Haus",
+                "adresse": "Glockengasse 4",
+                "hausnr": "4",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Nord",
+                "stadtviertel": "Neumarkt-Viertel",
+                "postleitzahl": "50667",
+                "hyperlink": " ",
+                "name_lang": "4711-Haus"
+            },
+            "geometry": {
+                "x": 6.9522655475390174,
+                "y": 50.938479039586049
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 26,
+                "adress_nr": "02156002900",
+                "name": "Gürzenich",
+                "adresse": "Martinstr. 29",
+                "hausnr": "29",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Nord",
+                "stadtviertel": "City",
+                "postleitzahl": "50667",
+                "hyperlink": " ",
+                "name_lang": "Gürzenich"
+            },
+            "geometry": {
+                "x": 6.9584468852773123,
+                "y": 50.936572948696266
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 27,
+                "adress_nr": "03147001100",
+                "name": "Römisches Nordtor",
+                "adresse": "Unter Fettenhennen 11",
+                "hausnr": "11",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Nord",
+                "stadtviertel": "City",
+                "postleitzahl": "50667",
+                "hyperlink": " ",
+                "name_lang": "Römisches Nordtor"
+            },
+            "geometry": {
+                "x": 6.9566257518683923,
+                "y": 50.941493723545825
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 28,
+                "adress_nr": "00745000400",
+                "name": "Dom",
+                "adresse": "Domkloster 4",
+                "hausnr": "4",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Nord",
+                "stadtviertel": "City",
+                "postleitzahl": "50667",
+                "hyperlink": " ",
+                "name_lang": "Dom"
+            },
+            "geometry": {
+                "x": 6.9571974567417953,
+                "y": 50.941314642467049
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 29,
+                "adress_nr": "02335003000",
+                "name": "St. Aposteln",
+                "adresse": "Neumarkt 30",
+                "hausnr": "30",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Süd",
+                "stadtviertel": "Cäcilien-Viertel",
+                "postleitzahl": "50667",
+                "hyperlink": "http://www.stadt-koeln.de/freizeit/sehenswuerdigkeiten/kirchen/",
+                "name_lang": "St. Aposteln"
+            },
+            "geometry": {
+                "x": 6.9450267868416082,
+                "y": 50.936635025761021
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 30,
+                "adress_nr": "00260000100",
+                "name": "St. Andreas",
+                "adresse": "Andreaskloster 1",
+                "hausnr": "1",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Nord",
+                "stadtviertel": "Andreas-Viertel",
+                "postleitzahl": "50667",
+                "hyperlink": "http://www.stadt-koeln.de/freizeit/sehenswuerdigkeiten/kirchen/",
+                "name_lang": "St. Andreas"
+            },
+            "geometry": {
+                "x": 6.9544766827190889,
+                "y": 50.941907568534013
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 31,
+                "adress_nr": "00612002900",
+                "name": "Museum Schnütgen",
+                "adresse": "Cäcilienstr. 29",
+                "hausnr": "1",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Süd",
+                "stadtviertel": "Cäcilien-Viertel",
+                "postleitzahl": "50676",
+                "hyperlink": null,
+                "name_lang": "Museum Schnütgen / St. Cäcilien"
+            },
+            "geometry": {
+                "x": 6.9515275075542826,
+                "y": 50.934671160370733
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 32,
+                "adress_nr": "01097001700",
+                "name": "St. Georg",
+                "adresse": "Georgsplatz 17",
+                "hausnr": "17",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Süd",
+                "stadtviertel": "Georgs-Viertel",
+                "postleitzahl": "50676",
+                "hyperlink": "http://www.stadt-koeln.de/freizeit/sehenswuerdigkeiten/kirchen/",
+                "name_lang": "St. Georg"
+            },
+            "geometry": {
+                "x": 6.9571789401589434,
+                "y": 50.931908006489124
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 33,
+                "adress_nr": "01916000200",
+                "name": "St. Kunibert",
+                "adresse": "Kunibertsklostergasse 2",
+                "hausnr": "2",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Nord",
+                "stadtviertel": "Kuniberts-Viertel",
+                "postleitzahl": "50668",
+                "hyperlink": "http://www.stadt-koeln.de/freizeit/sehenswuerdigkeiten/kirchen/",
+                "name_lang": "St. Kunibert"
+            },
+            "geometry": {
+                "x": 6.9626655386897358,
+                "y": 50.94679404804851
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 34,
+                "adress_nr": "02134001900",
+                "name": "St. Maria im Kapitol",
+                "adresse": "Marienplatz 19",
+                "hausnr": "19",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Süd",
+                "stadtviertel": "Kapitol-Viertel",
+                "postleitzahl": "50676",
+                "hyperlink": "http://www.stadt-koeln.de/freizeit/sehenswuerdigkeiten/kirchen/",
+                "name_lang": "St. Maria im Kapitol"
+            },
+            "geometry": {
+                "x": 6.9585116827208573,
+                "y": 50.934404370778211
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 35,
+                "adress_nr": "00264001200",
+                "name": "St. Maria in Lyskirchen",
+                "adresse": "An Lyskirchen 12",
+                "hausnr": "12",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Süd",
+                "stadtviertel": "Georgs-Viertel",
+                "postleitzahl": "50676",
+                "hyperlink": "http://www.stadt-koeln.de/freizeit/sehenswuerdigkeiten/kirchen/",
+                "name_lang": "St. Maria in Lyskirchen"
+            },
+            "geometry": {
+                "x": 6.9626411382289506,
+                "y": 50.933079780146393
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 36,
+                "adress_nr": "03577000900",
+                "name": "Groß St.Martin",
+                "adresse": "An Groß St.Martin 9",
+                "hausnr": "9",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Nord",
+                "stadtviertel": "Martins-Viertel",
+                "postleitzahl": "50667",
+                "hyperlink": "http://www.stadt-koeln.de/freizeit/sehenswuerdigkeiten/kirchen/",
+                "name_lang": "Groß St.Martin"
+            },
+            "geometry": {
+                "x": 6.9612892432596585,
+                "y": 50.938560481219504
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 37,
+                "adress_nr": "00165000200",
+                "name": "St. Pantaleon",
+                "adresse": "Am Pantaleonsberg 2",
+                "hausnr": "2",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Süd",
+                "stadtviertel": "Pantaleons-Viertel",
+                "postleitzahl": "50676",
+                "hyperlink": "http://www.stadt-koeln.de/freizeit/sehenswuerdigkeiten/kirchen/",
+                "name_lang": "St. Pantaleon"
+            },
+            "geometry": {
+                "x": 6.9476834799396121,
+                "y": 50.928639591530271
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 38,
+                "adress_nr": "02877000100",
+                "name": "St. Severin",
+                "adresse": "Severinskirchplatz 1",
+                "hausnr": "1",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Süd",
+                "stadtviertel": "Severins-Viertel",
+                "postleitzahl": "50678",
+                "hyperlink": "http://www.stadt-koeln.de/freizeit/sehenswuerdigkeiten/kirchen/",
+                "name_lang": "St. Severin"
+            },
+            "geometry": {
+                "x": 6.960109429088229,
+                "y": 50.923591536604661
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 39,
+                "adress_nr": "03165002400",
+                "name": "St. Ursula",
+                "adresse": "Ursulaplatz 24",
+                "hausnr": "24",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Nord",
+                "stadtviertel": "Ursula-Viertel",
+                "postleitzahl": "50668",
+                "hyperlink": "http://www.stadt-koeln.de/freizeit/sehenswuerdigkeiten/kirchen/",
+                "name_lang": "St. Ursula"
+            },
+            "geometry": {
+                "x": 6.9545003723014016,
+                "y": 50.945675154689951
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 40,
+                "adress_nr": "01105000400",
+                "name": "St. Gereon",
+                "adresse": "Gereonsdriesch 4",
+                "hausnr": "4",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Nord",
+                "stadtviertel": "Gereons-Viertel",
+                "postleitzahl": "50670",
+                "hyperlink": "http://www.stadt-koeln.de/freizeit/sehenswuerdigkeiten/kirchen/",
+                "name_lang": "St. Gereon"
+            },
+            "geometry": {
+                "x": 6.9461845864558383,
+                "y": 50.943208876852779
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 41,
+                "adress_nr": "00197003400",
+                "name": "Flora",
+                "adresse": "Amsterdamer Str. 34",
+                "hausnr": null,
+                "stadtbezirk": "Nippes",
+                "stadtteil": "Riehl",
+                "stadtviertel": "Zoo-Flora",
+                "postleitzahl": "50735",
+                "hyperlink": "http://www.stadt-koeln.de/natur/parks/",
+                "name_lang": "Flora"
+            },
+            "geometry": {
+                "x": 6.970144023343587,
+                "y": 50.960897918058031
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 42,
+                "adress_nr": "05443010000",
+                "name": "Forstbotanischer Garten",
+                "adresse": "Schillingsrotter Str. 100",
+                "hausnr": null,
+                "stadtbezirk": "Rodenkirchen",
+                "stadtteil": "Rodenkirchen",
+                "stadtviertel": null,
+                "postleitzahl": "50996",
+                "hyperlink": "http://www.stadt-koeln.de/natur/parks/",
+                "name_lang": "Forstbotanischer Garten"
+            },
+            "geometry": {
+                "x": 6.9801416205839448,
+                "y": 50.883378682157833
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 43,
+                "adress_nr": null,
+                "name": "Skulpturenpark",
+                "adresse": "Schillingsrotter Str.",
+                "hausnr": "0",
+                "stadtbezirk": "Rodenkirchen",
+                "stadtteil": "Rodenkirchen",
+                "stadtviertel": null,
+                "postleitzahl": "50996",
+                "hyperlink": " ",
+                "name_lang": "Skulpturenpark"
+            },
+            "geometry": {
+                "x": 6.982934284692548,
+                "y": 50.886032594899113
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 44,
+                "adress_nr": "04579004900",
+                "name": "Finkens Garten",
+                "adresse": "Friedrich-Ebert-Str. 49",
+                "hausnr": null,
+                "stadtbezirk": "Rodenkirchen",
+                "stadtteil": "Rodenkirchen",
+                "stadtviertel": "Schillingsrott",
+                "postleitzahl": "50996",
+                "hyperlink": "http://www.stadt-koeln.de/natur/parks/",
+                "name_lang": "Finkens Garten"
+            },
+            "geometry": {
+                "x": 6.9857215103566954,
+                "y": 50.888037000365827
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 45,
+                "adress_nr": "00002020400",
+                "name": "Melaten",
+                "adresse": "Aachener Str. 204",
+                "hausnr": null,
+                "stadtbezirk": "Lindenthal",
+                "stadtteil": "Lindenthal",
+                "stadtviertel": null,
+                "postleitzahl": "50931",
+                "hyperlink": "http://www.stadt-koeln.de/natur/friedhoefe/geschichte/melaten/index.html",
+                "name_lang": "Melaten"
+            },
+            "geometry": {
+                "x": 6.9166769888183657,
+                "y": 50.939279017959969
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 46,
+                "adress_nr": "03215000200",
+                "name": "Castrum Divitium",
+                "adresse": "Von-Gablenz-Str. 2",
+                "hausnr": "2",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Deutz",
+                "stadtviertel": "Deutz",
+                "postleitzahl": "50679",
+                "hyperlink": " ",
+                "name_lang": "Castrum Divitium"
+            },
+            "geometry": {
+                "x": 6.9704719966862481,
+                "y": 50.937854415065779
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 47,
+                "adress_nr": null,
+                "name": "Heinzelmännchenbrunnen",
+                "adresse": "Am Hof",
+                "hausnr": null,
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Nord",
+                "stadtviertel": null,
+                "postleitzahl": "50667",
+                "hyperlink": " ",
+                "name_lang": "Heinzelmännchenbrunnen"
+            },
+            "geometry": {
+                "x": 6.9572725181352988,
+                "y": 50.939988911546358
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 48,
+                "adress_nr": "02643000100",
+                "name": "Tanzbrunnen",
+                "adresse": "Rheinparkweg 1",
+                "hausnr": null,
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Deutz",
+                "stadtviertel": "Zuordnung Deutz",
+                "postleitzahl": "50679",
+                "hyperlink": "http://www.koeln.de/cgi-bin/extern.cgi?url=http://www.theaterszene-koeln.de",
+                "name_lang": "Tanzbrunnen"
+            },
+            "geometry": {
+                "x": 6.9718855020514443,
+                "y": 50.946096559874242
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 49,
+                "adress_nr": null,
+                "name": "Rheinpark",
+                "adresse": null,
+                "hausnr": null,
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Deutz",
+                "stadtviertel": "Zuordnung Deutz",
+                "postleitzahl": "50679",
+                "hyperlink": null,
+                "name_lang": "Rheinpark"
+            },
+            "geometry": {
+                "x": 6.9756476108909053,
+                "y": 50.94925422020124
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 50,
+                "adress_nr": "03811000100",
+                "name": "Coloneum Ossendorf",
+                "adresse": "Am Coloneum 1",
+                "hausnr": null,
+                "stadtbezirk": "Ehrenfeld",
+                "stadtteil": "Ossendorf",
+                "stadtviertel": "GE Ossendorf",
+                "postleitzahl": "50829",
+                "hyperlink": " ",
+                "name_lang": "Coloneum Ossendorf"
+            },
+            "geometry": {
+                "x": 6.8960538474736248,
+                "y": 50.987520795756879
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 51,
+                "adress_nr": "02773003700",
+                "name": "E-Werk",
+                "adresse": "Schanzenstr. 37",
+                "hausnr": null,
+                "stadtbezirk": "Mülheim",
+                "stadtteil": "Mülheim",
+                "stadtviertel": "GI Mülheim-Nord",
+                "postleitzahl": "51063",
+                "hyperlink": "http://www.e-werk-koeln.de/",
+                "name_lang": "E-Werk"
+            },
+            "geometry": {
+                "x": 7.0165271054967846,
+                "y": 50.969660930018435
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 52,
+                "adress_nr": "02773004000",
+                "name": "Palladium",
+                "adresse": "Schanzenstr. 40",
+                "hausnr": null,
+                "stadtbezirk": "Mülheim",
+                "stadtteil": "Mülheim",
+                "stadtviertel": "GI Mülheim-Nord",
+                "postleitzahl": "51063",
+                "hyperlink": " ",
+                "name_lang": "Palladium"
+            },
+            "geometry": {
+                "x": 7.018092317045606,
+                "y": 50.969199888306704
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 53,
+                "adress_nr": "02444000100",
+                "name": "LVR-Turm / Köln Triangle",
+                "adresse": "Ottoplatz 1",
+                "hausnr": null,
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Deutz",
+                "stadtviertel": "Deutz",
+                "postleitzahl": "50679",
+                "hyperlink": " ",
+                "name_lang": "LVR-Turm / Köln Triangle"
+            },
+            "geometry": {
+                "x": 6.9718371486346067,
+                "y": 50.940374988654547
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 54,
+                "adress_nr": "01288009700",
+                "name": "Saturn-Hochhaus",
+                "adresse": "Hansaring 97",
+                "hausnr": null,
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Neustadt/Nord",
+                "stadtviertel": "Media-Park",
+                "postleitzahl": "50670",
+                "hyperlink": " ",
+                "name_lang": "Saturn-Hochhaus"
+            },
+            "geometry": {
+                "x": 6.9515225013188191,
+                "y": 50.949049246846428
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 55,
+                "adress_nr": "00252000200",
+                "name": "Axa-Hochhaus",
+                "adresse": "An der Schanz 2",
+                "hausnr": null,
+                "stadtbezirk": "Nippes",
+                "stadtteil": "Riehl",
+                "stadtviertel": "Niederländer-Viertel",
+                "postleitzahl": "50735",
+                "hyperlink": " ",
+                "name_lang": "Axa-Hochhaus"
+            },
+            "geometry": {
+                "x": 6.982173784638233,
+                "y": 50.960608264736692
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 56,
+                "adress_nr": null,
+                "name": "Jugendpark",
+                "adresse": "im Rheinpark Zoobrücke, Sachsenbergstr.",
+                "hausnr": null,
+                "stadtbezirk": "Mülheim",
+                "stadtteil": "Mülheim",
+                "stadtviertel": null,
+                "postleitzahl": "51063",
+                "hyperlink": " ",
+                "name_lang": "Jugendpark"
+            },
+            "geometry": {
+                "x": 6.9801133241463358,
+                "y": 50.954030939786328
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 57,
+                "adress_nr": null,
+                "name": "Rheinauhafen",
+                "adresse": null,
+                "hausnr": null,
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Süd",
+                "stadtviertel": null,
+                "postleitzahl": "50678",
+                "hyperlink": " ",
+                "name_lang": "Rheinauhafen"
+            },
+            "geometry": {
+                "x": 6.9651074710170269,
+                "y": 50.928445181798189
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 58,
+                "adress_nr": "02656019000",
+                "name": "Weltkugel von HA Schult",
+                "adresse": "Riehler Str. 190 DEVK-Haus",
+                "hausnr": null,
+                "stadtbezirk": "Nippes",
+                "stadtteil": "Riehl",
+                "stadtviertel": "Niederländer-Viertel",
+                "postleitzahl": "50735",
+                "hyperlink": " ",
+                "name_lang": "Weltkugel von HA Schult"
+            },
+            "geometry": {
+                "x": 6.9758968587506995,
+                "y": 50.957910278662297
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 59,
+                "adress_nr": null,
+                "name": "Heinrich-Böll-Platz",
+                "adresse": null,
+                "hausnr": null,
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Nord",
+                "stadtviertel": null,
+                "postleitzahl": "50667",
+                "hyperlink": " ",
+                "name_lang": "Heinrich-Böll-Platz"
+            },
+            "geometry": {
+                "x": 6.9608204218170657,
+                "y": 50.941118477355865
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 60,
+                "adress_nr": "01166000100",
+                "name": "Musical-Dome",
+                "adresse": "Goldgasse 1",
+                "hausnr": null,
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Nord",
+                "stadtviertel": "Kuniberts-Viertel",
+                "postleitzahl": "50668",
+                "hyperlink": "http://www.musical-dome-koeln.de/",
+                "name_lang": "Musical-Dome"
+            },
+            "geometry": {
+                "x": 6.9620652202871929,
+                "y": 50.942882084300855
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 61,
+                "adress_nr": "02773003900",
+                "name": "Harald-Schmidt-Show",
+                "adresse": "Schanzenstr. 39",
+                "hausnr": null,
+                "stadtbezirk": "Mülheim",
+                "stadtteil": "Mülheim",
+                "stadtviertel": "GI Mülheim-Nord",
+                "postleitzahl": "51063",
+                "hyperlink": " ",
+                "name_lang": "Harald-Schmidt-Show"
+            },
+            "geometry": {
+                "x": 7.0176326825186237,
+                "y": 50.96987360091812
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 62,
+                "adress_nr": "02793006500",
+                "name": "Weltstadthaus",
+                "adresse": "Schildergasse 65",
+                "hausnr": null,
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Nord",
+                "stadtviertel": "Neumarkt-Viertel",
+                "postleitzahl": "50667",
+                "hyperlink": " ",
+                "name_lang": "Weltstadthaus"
+            },
+            "geometry": {
+                "x": 6.9526397284241765,
+                "y": 50.936196832764736
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 63,
+                "adress_nr": null,
+                "name": "DLR Deutsches Zentrum für",
+                "adresse": "Linder Höhe",
+                "hausnr": null,
+                "stadtbezirk": "Porz",
+                "stadtteil": "Grengel",
+                "stadtviertel": null,
+                "postleitzahl": "51147",
+                "hyperlink": null,
+                "name_lang": "DLR Deutsches Zentrum für"
+            },
+            "geometry": {
+                "x": 7.1193406743498855,
+                "y": 50.852510765178643
+            }
+        },
+        {
+            "attributes": {
+                "objectid": 64,
+                "adress_nr": "01993001000",
+                "name": "Rautenstrauch-Joest-Museum",
+                "adresse": "Leonhard-Tietz-Str. 10",
+                "hausnr": "10",
+                "stadtbezirk": "Innenstadt",
+                "stadtteil": "Altstadt/Süd",
+                "stadtviertel": "Cäcilien-Viertel",
+                "postleitzahl": "50667",
+                "hyperlink": "http://www.museenkoeln.de/rautenstrauch-joest-museum/",
+                "name_lang": "Rautenstrauch-Joest-Museum"
+            },
+            "geometry": {
+                "x": 6.9506845317578163,
+                "y": 50.934377040092272
+            }
+        }
+    ]
+}
